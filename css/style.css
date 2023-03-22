@@ -431,6 +431,10 @@ footer {
 
 /* about page*/
 
+.aboutimage { 
+	background-image: url("../img/about.jpg");
+}
+
 .aboutpics {
 	width: 60%;
 	margin: auto;
